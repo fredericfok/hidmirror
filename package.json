@@ -1,0 +1,9 @@
+{
+	"name": "hidmirror", 
+	"main":	"hidmirror.js", 
+	"version": "1.0.0", 
+	"description": "mir:ror HID-based nodejs driver",
+	"dependencies": {
+        "node-hid"            :   "0.4.0"
+	} 
+}
