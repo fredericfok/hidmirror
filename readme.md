@@ -1,6 +1,8 @@
 HID MIRROR
 ==========
 
+[![Build Status](https://drone.io/github.com/fredericfok/hidmirror/status.png)](https://drone.io/github.com/fredericfok/hidmirror/latest)
+
 Mir:ror node driver module providing utility methods to listen RFID tags (ISO/IEC 14443 Type A or B) such as nano:ztag or ztamps. 
 
 It automatically detects the mir:ror when it is connected to your USB port, using a configurable time interval (default 5sec) 
