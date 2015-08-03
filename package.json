@@ -1,9 +1,27 @@
 {
-	"name": "hidmirror", 
-	"main":	"hidmirror.js", 
-	"version": "1.0.0", 
-	"description": "mir:ror HID-based nodejs driver",
-	"dependencies": {
-        "node-hid"            :   "0.4.0"
-	} 
+  "name": "hidmirror",
+  "main": "hidmirror.js",
+  "version": "1.0.0",
+  "description": "mir:ror HID-based nodejs driver",
+  "dependencies": {
+    "node-hid": "0.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fredericfok/hidmirror.git"
+  },
+  "keywords": [
+    "mir:ror",
+    "driver",
+    "nodejs"
+  ],
+  "author": "koff <koffdev@gmail.com>",
+  "license": "apache 2.0",
+  "bugs": {
+    "url": "https://github.com/fredericfok/hidmirror/issues"
+  },
+  "homepage": "https://github.com/fredericfok/hidmirror"
 }
